@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_router/static/css/main.c59cc657.css",
+    "main.js": "/react_router/static/js/main.8d4a61a3.js",
+    "static/media/logo.png": "/react_router/static/media/logo.8302021de9fe139838e9.png",
+    "index.html": "/react_router/index.html",
+    "main.c59cc657.css.map": "/react_router/static/css/main.c59cc657.css.map",
+    "main.8d4a61a3.js.map": "/react_router/static/js/main.8d4a61a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.8d4a61a3.js"
+  ]
+}
